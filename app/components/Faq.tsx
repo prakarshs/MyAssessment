@@ -40,7 +40,7 @@ export function Faq() {
           Frequently Asked Questions
         </h3>
         <h1 className="py-4 text-2xl font-medium text-[#172026] lg:text-[42px] lg:leading-[58px]">
-          Lets clarify some of your questions
+          My First Next.js, Typescript, Tailwind Project.
         </h1>
         <p className="text-[#36485C] pb-[24px]">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
